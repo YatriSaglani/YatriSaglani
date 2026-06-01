@@ -54,11 +54,7 @@ print("Learning Python one step at a time 🚀")
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YatriSaglani&layout=compact&theme=radical" />
 </p>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YatriSaglani&theme=radical&row=1&column=6" />
-</p>
 
 ## 🎯 2026 Goals
 
