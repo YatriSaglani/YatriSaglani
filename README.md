@@ -22,17 +22,6 @@
 
 • Building projects to strengthen problem-solving and technical skills
 
-🎓 Pursuing B.E. in Computer Engineering
-
-📊 Currently learning Data Science & Machine Learning
-
-🐍 Learning Python and building projects
-
-📈 Interested in Data Analysis, AI & ML
-
-💡 Love solving problems through code
-
-🌱 Learning one concept at a time
 
 ---
 
