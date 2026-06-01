@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Yatri
 
-<!--
-**YatriSaglani/YatriSaglani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Engineering Student
+### 📊 Aspiring Data Science & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning Python for Data Science
+- 💻 Exploring programming and problem-solving
+- 📈 Interested in Data Analysis, Machine Learning, and AI
+- 🎯 Goal: Become a skilled Data Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills I'm Learning
+- Python
+- Data Structures
+- NumPy
+- Pandas
+- Data Visualization
+- Machine Learning (Beginner)
+
