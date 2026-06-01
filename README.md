@@ -10,7 +10,17 @@
 
 ---
 
-## 🌸 About Me
+## 🎓 About Me
+
+• Computer Engineering Student
+
+• Pursuing Data Science Training at Red & White Multimedia Education, Rajkot
+
+• Currently learning Python, NumPy, Pandas, and Machine Learning
+
+• Interested in Data Analysis, AI, and Software Development
+
+• Building projects to strengthen problem-solving and technical skills
 
 🎓 Pursuing B.E. in Computer Engineering
 
